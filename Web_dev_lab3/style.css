@@ -28,6 +28,7 @@ h2
     background-color: #1b1f27;
     color: #ffffff;
     font-family: Georgia, serif;
+    font-size: 32px;
 }
 
 ul
@@ -61,4 +62,38 @@ body > img
     margin-right: auto;
     display: block;
 }
+#aboutme
+{
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    color: #dddddd; 
+}
+
+#carpic
+{
+
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 90%;
+    height: auto;
+ 
+}
+
+#bmw
+{
+    text-align: center;
+    font-family: Georgia, serif;
+}
+h3
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 24px 12px 12px 12px ;
+    width: 100%;
+    background-color: #1b1f27;
+    color: #ffffff;
+    font-family: Georgia, serif;
+    font-size: 22px; 
 }
