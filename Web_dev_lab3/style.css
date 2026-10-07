@@ -67,7 +67,10 @@ body > img
 {
     font-family: "Poppins", sans-serif;
     line-height: 1.6;
-    color: #dddddd; 
+    color: black;
+    background-color: red;
+    margin-left: auto;
+    margin-right: 5%; 
 }
 
 #carpic
@@ -77,12 +80,15 @@ body > img
     display: block;
     max-width: 90%;
     height: auto;
+    background-color: #c1121f;
 }
 
 #bmw
 {
     text-align: center;
     font-family: "Poppins", sans-serif;
+    background-color: black;
+    
 }
 
 h3
